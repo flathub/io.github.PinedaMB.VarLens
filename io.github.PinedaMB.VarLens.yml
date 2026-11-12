@@ -32,7 +32,7 @@ modules:
       - type: git
         url: https://github.com/PinedaMB/VarLens.git
         tag: v1.1.1
-        commit: 31d71107a5a6c563ba0f04fdfe82ab2b81f4e70e
+        commit: 063a8f242f4b5f72c5d596fe05083c9b67ad1d47
         x-checker-data:
           type: git
           tag-pattern: ^v([0-9.]+)$
